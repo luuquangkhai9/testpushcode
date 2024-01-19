@@ -49,7 +49,7 @@ int main()
     // // employee1.Age=15;
     // // employee1.IntroduceYourself();
     // employee1.AskForPromotion();
-    Developer dever = Developer("Sald", "YT", 25);
+    Developer dever = Developer("khai", "YT", 25);
     dever.AskForPromotion();
     return 0;
 }
